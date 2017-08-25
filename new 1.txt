@@ -9,4 +9,9 @@ we are now in bussiness
 why is everythhing  so complecated
 12:20 AM 2017-08-2512:20 AM 2017-08-25
 12:20 AM 2017-08-25
+<<<<<<< HEAD
 edit edit edit
+=======
+edit edit edit
+some changes
+>>>>>>> newbranch
